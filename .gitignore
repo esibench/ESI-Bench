@@ -1,0 +1,7 @@
+outputs/
+key.env
+__pycache__/
+.DS_Store
+scripts/
+.agents
+.pytest_cache
